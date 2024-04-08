@@ -1,0 +1,8 @@
+let see 5 semantic element 
+
+ - header :- header tag is used to write web page like navbar , website headings
+ - main  :- main tag is used to write web page  main content , main vary type of tag like section article aside 
+ - section  :- section tag used to write a topic, like what is html in one section ,and what is css in another section
+ - article :- article tag is to write a article of web page
+ - aside ;- it used for make side bar like menu 
+

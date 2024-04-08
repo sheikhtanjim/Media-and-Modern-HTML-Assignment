@@ -1,0 +1,11 @@
+Let see some special features of HTML 5;
+   
+   - <video> and <audio> tags :-  Audio and Video tags are the two major addition to HTML5. It allows developers to embed a video or audio on their website.HTML5 makes adding video super-fast and without having to build a video player. 
+
+   - Vector grapics :- This is a new addition to the revised version which has hugely impacted the use of Adobe Flash in websites. Vector graphics are scalable, easy to create and edit. It also supports interactivity and animation
+
+   - Figure and Figcaption :- HTML5 allows to use a <figure> element to mark up a photo in a document, and a <figcaption> element to define a caption for the photo. The <figcaption> tag defines a caption for a <figure> element. It can be used to group a caption with one or more images, a block of code, or other content.
+
+   - Progress tag :- The progress tag is used to check the progress of a task during the execution. Progress tag can be used with the conjunction of JavaScript.
+
+   - Placeholder attribute :- The placeholder attribute specifies a short hint that describes the expected value of an input field/text area. The short hint is displayed in the field before the user enters a value.

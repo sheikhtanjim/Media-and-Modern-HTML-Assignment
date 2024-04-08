@@ -1,0 +1,6 @@
+write a short notes on the tab index 
+
+ - it is global attibutes , it allow to accessible content
+
+ -  when we use tabindex=0 then content is  accessible
+ - when we use tabindex=-1  / tabindex=1 then content is not accessible

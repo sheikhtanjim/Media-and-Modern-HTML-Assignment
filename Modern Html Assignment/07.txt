@@ -1,0 +1,3 @@
+What are the benefits of using semantic tags in our webpage
+
+Semantic HTML ensures web content is accessible, understandable, and navigable, contributing to a better user experience. Users, especially those utilizing assistive technologies, can easily navigate through the webpage, comprehend the content hierarchy, and access the information they are seeking. Therefore, the implementation of semantic HTML positively impacts both SEO and user experience.

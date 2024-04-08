@@ -1,0 +1,12 @@
+
+
+Entity :-
+  An HTML entity is a piece of text ("string") that begins with an ampersand (&) and ends with a semicolon (;). HTML entities are frequently used to display reserved characters
+
+  list of 5 commonly used entities
+
+  - & &amp;
+  - < &lt;
+  - > &gt;
+  - " &quot;
+    
